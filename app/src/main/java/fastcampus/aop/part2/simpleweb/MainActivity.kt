@@ -158,9 +158,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object {
-
         const val DEFAULT_URL = "http://www.google.com"
-
     }
 
 }
